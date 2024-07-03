@@ -7,7 +7,7 @@ description: "This is a demo of the Congo theme for Hugo."
 A powerful, lightweight theme for Hugo built with Tailwind CSS.
 {{< /lead >}}
 
-This is a demo site built entirely using Congo. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Congo is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts.
+This is a demo site built entirely using Congo. It also contains a complete set of [theme documentation]({{< ref "docs" >}}). Congo is flexible and is great for both static page-based content (like this demo) or a traditional blog with a feed of recent posts. Harrrrr Horrrr Hirrrrrr
 
 <div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
   <span class="flex items-center pe-3 text-primary-400">
