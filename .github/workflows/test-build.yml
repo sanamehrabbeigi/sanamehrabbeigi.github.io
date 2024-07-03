@@ -23,4 +23,4 @@ jobs:
 
       - name: Build
         working-directory: ./exampleSite
-        run: hugo --minify --themesDir ../.. --baseURL https://jpanther.github.io/congo/
+        run: hugo --minify --themesDir ../.. --baseURL https://sanamehrabbeigi.github.io/congo/
